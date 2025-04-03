@@ -104,7 +104,8 @@ void food_sel(int food_choice) {
                search_by_foods() ; }
             else{
                 cart() ;
-                break;}
+                exit(0);
+                }
         } else {
             printf("Invalid choice! Try again.\n");
         }
