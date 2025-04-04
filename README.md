@@ -1,6 +1,6 @@
 <h1>🍔 Food Ordering System in C</h1>
 
-<h4>Welcome to the **Food Ordering System** — a simple and interactive console-based program written in C that allows users to order delicious foods, drinks, and snacks. 🥤🍟</h4>
+<h4>Welcome to the Food Ordering System — a simple and interactive console-based program written in C that allows users to order delicious foods, drinks, and snacks. 🥤🍟</h4>
 
 ---
 
