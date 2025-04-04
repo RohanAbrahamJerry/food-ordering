@@ -22,3 +22,6 @@
 1. **Clone the repo or copy the code:**
    ```bash
    git clone <your-repo-url>
+2.**Compile the program:
+```bash
+gcc food_ordering.c -o food_ordering
