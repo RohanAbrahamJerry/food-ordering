@@ -25,3 +25,8 @@
 2. **Compile the program:**
 ```bash
 gcc food_ordering.c -o food_ordering
+```
+3. Run it:
+```bash
+./food_ordering
+```
