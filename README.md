@@ -4,12 +4,12 @@
 
 ---
 
-## 📋 Features
+<h1>📋 Features</h1>
 
-✅ Choose from 3 main categories:
-- 🍛 **BIRIYANI** (Chicken, Mutton, Veg)
-- 🥤 **DRINKS** (Tea, Coffee, Pepsi)
-- 🍔 **SNACKS** (Samosa, Egg Puffs, Burger)
+<h3>✅ Choose from 3 main categories:</h3>
+<h4>- 🍛 **BIRIYANI** (Chicken, Mutton, Veg)</h4>
+<h4>- 🥤 **DRINKS** (Tea, Coffee, Pepsi)</h4>
+<h4>- 🍔 **SNACKS** (Samosa, Egg Puffs, Burger)</h4>
 
 ✅ Add items to your cart  
 ✅ View total cost anytime  
