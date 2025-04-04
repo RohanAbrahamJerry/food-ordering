@@ -30,3 +30,25 @@ gcc food_ordering.c -o food_ordering
 ```bash
 ./food_ordering
 ```
+<h1>📦 Sample Output</h1>
+<pre>
+Please Choose the Food Type:
+1) BIRIYANI
+2) DRINKS
+3) SNACKS
+
+Enter option: 1
+
+List of foods available in BIRIYANI
+1) Chicken Biriyani     Rs: 90
+2) Mutton Biriyani      Rs: 120
+3) Vegetable Biriyani   Rs: 70
+4) View Cart
+5) Exit
+Enter your choice: 1
+Enter quantity for Chicken Biriyani: 2
+
+-------------- Cart ----------------
+Total Order Amount: Rs 180
+-----------------------------------
+</pre>
